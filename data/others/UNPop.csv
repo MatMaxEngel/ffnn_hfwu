@@ -1,0 +1,623 @@
+"Country","Variable","Variant","Year","Value"
+"China","Population (thousands)","Medium variant","1950",550771
+"China","Population (thousands)","High variant","1950",550771
+"China","Population (thousands)","Low variant","1950",550771
+"China","Population (thousands)","Constant-fertility variant","1950",550771
+"China","Population (thousands)","Medium variant","1955",608360
+"China","Population (thousands)","High variant","1955",608360
+"China","Population (thousands)","Low variant","1955",608360
+"China","Population (thousands)","Constant-fertility variant","1955",608360
+"China","Population (thousands)","Medium variant","1960",658270
+"China","Population (thousands)","High variant","1960",658270
+"China","Population (thousands)","Low variant","1960",658270
+"China","Population (thousands)","Constant-fertility variant","1960",658270
+"China","Population (thousands)","Medium variant","1965",710290
+"China","Population (thousands)","High variant","1965",710290
+"China","Population (thousands)","Low variant","1965",710290
+"China","Population (thousands)","Constant-fertility variant","1965",710290
+"China","Population (thousands)","Medium variant","1970",814623
+"China","Population (thousands)","High variant","1970",814623
+"China","Population (thousands)","Low variant","1970",814623
+"China","Population (thousands)","Constant-fertility variant","1970",814623
+"China","Population (thousands)","Medium variant","1975",915041
+"China","Population (thousands)","High variant","1975",915041
+"China","Population (thousands)","Low variant","1975",915041
+"China","Population (thousands)","Constant-fertility variant","1975",915041
+"China","Population (thousands)","Medium variant","1980",983171
+"China","Population (thousands)","High variant","1980",983171
+"China","Population (thousands)","Low variant","1980",983171
+"China","Population (thousands)","Constant-fertility variant","1980",983171
+"China","Population (thousands)","Medium variant","1985",1056579
+"China","Population (thousands)","High variant","1985",1056579
+"China","Population (thousands)","Low variant","1985",1056579
+"China","Population (thousands)","Constant-fertility variant","1985",1056579
+"China","Population (thousands)","Medium variant","1990",1145195
+"China","Population (thousands)","High variant","1990",1145195
+"China","Population (thousands)","Low variant","1990",1145195
+"China","Population (thousands)","Constant-fertility variant","1990",1145195
+"China","Population (thousands)","Medium variant","1995",1213987
+"China","Population (thousands)","High variant","1995",1213987
+"China","Population (thousands)","Low variant","1995",1213987
+"China","Population (thousands)","Constant-fertility variant","1995",1213987
+"China","Population (thousands)","Medium variant","2000",1269117
+"China","Population (thousands)","High variant","2000",1269117
+"China","Population (thousands)","Low variant","2000",1269117
+"China","Population (thousands)","Constant-fertility variant","2000",1269117
+"China","Population (thousands)","Medium variant","2005",1307593
+"China","Population (thousands)","High variant","2005",1307593
+"China","Population (thousands)","Low variant","2005",1307593
+"China","Population (thousands)","Constant-fertility variant","2005",1307593
+"China","Population (thousands)","Medium variant","2010",1341335
+"China","Population (thousands)","High variant","2010",1341335
+"China","Population (thousands)","Low variant","2010",1341335
+"China","Population (thousands)","Constant-fertility variant","2010",1341335
+"China","Population (thousands)","Medium variant","2015",1369743
+"China","Population (thousands)","High variant","2015",1382444
+"China","Population (thousands)","Low variant","2015",1357041
+"China","Population (thousands)","Constant-fertility variant","2015",1373992
+"China","Population (thousands)","Medium variant","2020",1387792
+"China","Population (thousands)","High variant","2020",1419761
+"China","Population (thousands)","Low variant","2020",1355822
+"China","Population (thousands)","Constant-fertility variant","2020",1398165
+"China","Population (thousands)","Medium variant","2025",1395256
+"China","Population (thousands)","High variant","2025",1449235
+"China","Population (thousands)","Low variant","2025",1341278
+"China","Population (thousands)","Constant-fertility variant","2025",1409204
+"China","Population (thousands)","Medium variant","2030",1393076
+"China","Population (thousands)","High variant","2030",1467433
+"China","Population (thousands)","Low variant","2030",1318826
+"China","Population (thousands)","Constant-fertility variant","2030",1407092
+"China","Population (thousands)","Medium variant","2035",1381588
+"China","Population (thousands)","High variant","2035",1477331
+"China","Population (thousands)","Low variant","2035",1287169
+"China","Population (thousands)","Constant-fertility variant","2035",1394450
+"China","Population (thousands)","Medium variant","2040",1360906
+"China","Population (thousands)","High variant","2040",1481942
+"China","Population (thousands)","Low variant","2040",1244685
+"China","Population (thousands)","Constant-fertility variant","2040",1373103
+"China","Population (thousands)","Medium variant","2045",1331768
+"China","Population (thousands)","High variant","2045",1482486
+"China","Population (thousands)","Low variant","2045",1191720
+"China","Population (thousands)","Constant-fertility variant","2045",1342858
+"China","Population (thousands)","Medium variant","2050",1295604
+"China","Population (thousands)","High variant","2050",1479310
+"China","Population (thousands)","Low variant","2050",1130211
+"China","Population (thousands)","Constant-fertility variant","2050",1303424
+"China","Population (thousands)","Medium variant","2055",1254854
+"China","Population (thousands)","High variant","2055",1473806
+"China","Population (thousands)","Low variant","2055",1063221
+"China","Population (thousands)","Constant-fertility variant","2055",1256896
+"China","Population (thousands)","Medium variant","2060",1211538
+"China","Population (thousands)","High variant","2060",1467737
+"China","Population (thousands)","Low variant","2060",993144
+"China","Population (thousands)","Constant-fertility variant","2060",1206285
+"China","Population (thousands)","Medium variant","2065",1167887
+"China","Population (thousands)","High variant","2065",1463686
+"China","Population (thousands)","Low variant","2065",922327
+"China","Population (thousands)","Constant-fertility variant","2065",1154596
+"China","Population (thousands)","Medium variant","2070",1125903
+"China","Population (thousands)","High variant","2070",1464195
+"China","Population (thousands)","Low variant","2070",852695
+"China","Population (thousands)","Constant-fertility variant","2070",1103548
+"China","Population (thousands)","Medium variant","2075",1085948
+"China","Population (thousands)","High variant","2075",1469897
+"China","Population (thousands)","Low variant","2075",784591
+"China","Population (thousands)","Constant-fertility variant","2075",1052846
+"China","Population (thousands)","Medium variant","2080",1048132
+"China","Population (thousands)","High variant","2080",1480767
+"China","Population (thousands)","Low variant","2080",718298
+"China","Population (thousands)","Constant-fertility variant","2080",1002306
+"China","Population (thousands)","Medium variant","2085",1013763
+"China","Population (thousands)","High variant","2085",1497562
+"China","Population (thousands)","Low variant","2085",655602
+"China","Population (thousands)","Constant-fertility variant","2085",953525
+"China","Population (thousands)","Medium variant","2090",984547
+"China","Population (thousands)","High variant","2090",1521329
+"China","Population (thousands)","Low variant","2090",598875
+"China","Population (thousands)","Constant-fertility variant","2090",908481
+"China","Population (thousands)","Medium variant","2095",960579
+"China","Population (thousands)","High variant","2095",1551529
+"China","Population (thousands)","Low variant","2095",549008
+"China","Population (thousands)","Constant-fertility variant","2095",867161
+"China","Population (thousands)","Medium variant","2100",941042
+"China","Population (thousands)","High variant","2100",1586939
+"China","Population (thousands)","Low variant","2100",505842
+"China","Population (thousands)","Constant-fertility variant","2100",828495
+"Germany","Population (thousands)","Medium variant","1950",68376
+"Germany","Population (thousands)","High variant","1950",68376
+"Germany","Population (thousands)","Low variant","1950",68376
+"Germany","Population (thousands)","Constant-fertility variant","1950",68376
+"Germany","Population (thousands)","Medium variant","1955",70326
+"Germany","Population (thousands)","High variant","1955",70326
+"Germany","Population (thousands)","Low variant","1955",70326
+"Germany","Population (thousands)","Constant-fertility variant","1955",70326
+"Germany","Population (thousands)","Medium variant","1960",72815
+"Germany","Population (thousands)","High variant","1960",72815
+"Germany","Population (thousands)","Low variant","1960",72815
+"Germany","Population (thousands)","Constant-fertility variant","1960",72815
+"Germany","Population (thousands)","Medium variant","1965",75964
+"Germany","Population (thousands)","High variant","1965",75964
+"Germany","Population (thousands)","Low variant","1965",75964
+"Germany","Population (thousands)","Constant-fertility variant","1965",75964
+"Germany","Population (thousands)","Medium variant","1970",78169
+"Germany","Population (thousands)","High variant","1970",78169
+"Germany","Population (thousands)","Low variant","1970",78169
+"Germany","Population (thousands)","Constant-fertility variant","1970",78169
+"Germany","Population (thousands)","Medium variant","1975",78674
+"Germany","Population (thousands)","High variant","1975",78674
+"Germany","Population (thousands)","Low variant","1975",78674
+"Germany","Population (thousands)","Constant-fertility variant","1975",78674
+"Germany","Population (thousands)","Medium variant","1980",78289
+"Germany","Population (thousands)","High variant","1980",78289
+"Germany","Population (thousands)","Low variant","1980",78289
+"Germany","Population (thousands)","Constant-fertility variant","1980",78289
+"Germany","Population (thousands)","Medium variant","1985",77685
+"Germany","Population (thousands)","High variant","1985",77685
+"Germany","Population (thousands)","Low variant","1985",77685
+"Germany","Population (thousands)","Constant-fertility variant","1985",77685
+"Germany","Population (thousands)","Medium variant","1990",79098
+"Germany","Population (thousands)","High variant","1990",79098
+"Germany","Population (thousands)","Low variant","1990",79098
+"Germany","Population (thousands)","Constant-fertility variant","1990",79098
+"Germany","Population (thousands)","Medium variant","1995",81929
+"Germany","Population (thousands)","High variant","1995",81929
+"Germany","Population (thousands)","Low variant","1995",81929
+"Germany","Population (thousands)","Constant-fertility variant","1995",81929
+"Germany","Population (thousands)","Medium variant","2000",82349
+"Germany","Population (thousands)","High variant","2000",82349
+"Germany","Population (thousands)","Low variant","2000",82349
+"Germany","Population (thousands)","Constant-fertility variant","2000",82349
+"Germany","Population (thousands)","Medium variant","2005",82541
+"Germany","Population (thousands)","High variant","2005",82541
+"Germany","Population (thousands)","Low variant","2005",82541
+"Germany","Population (thousands)","Constant-fertility variant","2005",82541
+"Germany","Population (thousands)","Medium variant","2010",82302
+"Germany","Population (thousands)","High variant","2010",82302
+"Germany","Population (thousands)","Low variant","2010",82302
+"Germany","Population (thousands)","Constant-fertility variant","2010",82302
+"Germany","Population (thousands)","Medium variant","2015",81471
+"Germany","Population (thousands)","High variant","2015",82077
+"Germany","Population (thousands)","Low variant","2015",80865
+"Germany","Population (thousands)","Constant-fertility variant","2015",81221
+"Germany","Population (thousands)","Medium variant","2020",80988
+"Germany","Population (thousands)","High variant","2020",82533
+"Germany","Population (thousands)","Low variant","2020",79442
+"Germany","Population (thousands)","Constant-fertility variant","2020",80269
+"Germany","Population (thousands)","Medium variant","2025",80332
+"Germany","Population (thousands)","High variant","2025",82999
+"Germany","Population (thousands)","Low variant","2025",77666
+"Germany","Population (thousands)","Constant-fertility variant","2025",78985
+"Germany","Population (thousands)","Medium variant","2030",79469
+"Germany","Population (thousands)","High variant","2030",83195
+"Germany","Population (thousands)","Low variant","2030",75744
+"Germany","Population (thousands)","Constant-fertility variant","2030",77386
+"Germany","Population (thousands)","Medium variant","2035",78445
+"Germany","Population (thousands)","High variant","2035",83211
+"Germany","Population (thousands)","Low variant","2035",73697
+"Germany","Population (thousands)","Constant-fertility variant","2035",75544
+"Germany","Population (thousands)","Medium variant","2040",77305
+"Germany","Population (thousands)","High variant","2040",83239
+"Germany","Population (thousands)","Low variant","2040",71474
+"Germany","Population (thousands)","Constant-fertility variant","2040",73478
+"Germany","Population (thousands)","Medium variant","2045",76067
+"Germany","Population (thousands)","High variant","2045",83494
+"Germany","Population (thousands)","Low variant","2045",68969
+"Germany","Population (thousands)","Constant-fertility variant","2045",71146
+"Germany","Population (thousands)","Medium variant","2050",74781
+"Germany","Population (thousands)","High variant","2050",84084
+"Germany","Population (thousands)","Low variant","2050",66186
+"Germany","Population (thousands)","Constant-fertility variant","2050",68560
+"Germany","Population (thousands)","Medium variant","2055",73502
+"Germany","Population (thousands)","High variant","2055",84934
+"Germany","Population (thousands)","Low variant","2055",63257
+"Germany","Population (thousands)","Constant-fertility variant","2055",65801
+"Germany","Population (thousands)","Medium variant","2060",72371
+"Germany","Population (thousands)","High variant","2060",86021
+"Germany","Population (thousands)","Low variant","2060",60427
+"Germany","Population (thousands)","Constant-fertility variant","2060",63064
+"Germany","Population (thousands)","Medium variant","2065",71496
+"Germany","Population (thousands)","High variant","2065",87409
+"Germany","Population (thousands)","Low variant","2065",57850
+"Germany","Population (thousands)","Constant-fertility variant","2065",60491
+"Germany","Population (thousands)","Medium variant","2070",70886
+"Germany","Population (thousands)","High variant","2070",89203
+"Germany","Population (thousands)","Low variant","2070",55504
+"Germany","Population (thousands)","Constant-fertility variant","2070",58086
+"Germany","Population (thousands)","Medium variant","2075",70482
+"Germany","Population (thousands)","High variant","2075",91492
+"Germany","Population (thousands)","Low variant","2075",53268
+"Germany","Population (thousands)","Constant-fertility variant","2075",55761
+"Germany","Population (thousands)","Medium variant","2080",70228
+"Germany","Population (thousands)","High variant","2080",94291
+"Germany","Population (thousands)","Low variant","2080",51054
+"Germany","Population (thousands)","Constant-fertility variant","2080",53442
+"Germany","Population (thousands)","Medium variant","2085",70123
+"Germany","Population (thousands)","High variant","2085",97540
+"Germany","Population (thousands)","Low variant","2085",48888
+"Germany","Population (thousands)","Constant-fertility variant","2085",51142
+"Germany","Population (thousands)","Medium variant","2090",70145
+"Germany","Population (thousands)","High variant","2090",101085
+"Germany","Population (thousands)","Low variant","2090",46815
+"Germany","Population (thousands)","Constant-fertility variant","2090",48879
+"Germany","Population (thousands)","Medium variant","2095",70258
+"Germany","Population (thousands)","High variant","2095",104804
+"Germany","Population (thousands)","Low variant","2095",44865
+"Germany","Population (thousands)","Constant-fertility variant","2095",46663
+"Germany","Population (thousands)","Medium variant","2100",70392
+"Germany","Population (thousands)","High variant","2100",108629
+"Germany","Population (thousands)","Low variant","2100",43006
+"Germany","Population (thousands)","Constant-fertility variant","2100",44454
+"World","Population (thousands)","Medium variant","1950",2532229
+"World","Population (thousands)","High variant","1950",2532229
+"World","Population (thousands)","Low variant","1950",2532229
+"World","Population (thousands)","Constant-fertility variant","1950",2532229
+"World","Population (thousands)","Medium variant","1955",2772882
+"World","Population (thousands)","High variant","1955",2772882
+"World","Population (thousands)","Low variant","1955",2772882
+"World","Population (thousands)","Constant-fertility variant","1955",2772882
+"World","Population (thousands)","Medium variant","1960",3038413
+"World","Population (thousands)","High variant","1960",3038413
+"World","Population (thousands)","Low variant","1960",3038413
+"World","Population (thousands)","Constant-fertility variant","1960",3038413
+"World","Population (thousands)","Medium variant","1965",3333007
+"World","Population (thousands)","High variant","1965",3333007
+"World","Population (thousands)","Low variant","1965",3333007
+"World","Population (thousands)","Constant-fertility variant","1965",3333007
+"World","Population (thousands)","Medium variant","1970",3696186
+"World","Population (thousands)","High variant","1970",3696186
+"World","Population (thousands)","Low variant","1970",3696186
+"World","Population (thousands)","Constant-fertility variant","1970",3696186
+"World","Population (thousands)","Medium variant","1975",4076419
+"World","Population (thousands)","High variant","1975",4076419
+"World","Population (thousands)","Low variant","1975",4076419
+"World","Population (thousands)","Constant-fertility variant","1975",4076419
+"World","Population (thousands)","Medium variant","1980",4453007
+"World","Population (thousands)","High variant","1980",4453007
+"World","Population (thousands)","Low variant","1980",4453007
+"World","Population (thousands)","Constant-fertility variant","1980",4453007
+"World","Population (thousands)","Medium variant","1985",4863290
+"World","Population (thousands)","High variant","1985",4863290
+"World","Population (thousands)","Low variant","1985",4863290
+"World","Population (thousands)","Constant-fertility variant","1985",4863290
+"World","Population (thousands)","Medium variant","1990",5306425
+"World","Population (thousands)","High variant","1990",5306425
+"World","Population (thousands)","Low variant","1990",5306425
+"World","Population (thousands)","Constant-fertility variant","1990",5306425
+"World","Population (thousands)","Medium variant","1995",5726239
+"World","Population (thousands)","High variant","1995",5726239
+"World","Population (thousands)","Low variant","1995",5726239
+"World","Population (thousands)","Constant-fertility variant","1995",5726239
+"World","Population (thousands)","Medium variant","2000",6122770
+"World","Population (thousands)","High variant","2000",6122770
+"World","Population (thousands)","Low variant","2000",6122770
+"World","Population (thousands)","Constant-fertility variant","2000",6122770
+"World","Population (thousands)","Medium variant","2005",6506649
+"World","Population (thousands)","High variant","2005",6506649
+"World","Population (thousands)","Low variant","2005",6506649
+"World","Population (thousands)","Constant-fertility variant","2005",6506649
+"World","Population (thousands)","Medium variant","2010",6895889
+"World","Population (thousands)","High variant","2010",6895889
+"World","Population (thousands)","Low variant","2010",6895889
+"World","Population (thousands)","Constant-fertility variant","2010",6895889
+"World","Population (thousands)","Medium variant","2015",7284296
+"World","Population (thousands)","High variant","2015",7350953
+"World","Population (thousands)","Low variant","2015",7217275
+"World","Population (thousands)","Constant-fertility variant","2015",7323598
+"World","Population (thousands)","Medium variant","2020",7656528
+"World","Population (thousands)","High variant","2020",7832370
+"World","Population (thousands)","Low variant","2020",7480225
+"World","Population (thousands)","Constant-fertility variant","2020",7772757
+"World","Population (thousands)","Medium variant","2025",8002978
+"World","Population (thousands)","High variant","2025",8316521
+"World","Population (thousands)","Low variant","2025",7689135
+"World","Population (thousands)","Constant-fertility variant","2025",8231506
+"World","Population (thousands)","Medium variant","2030",8321380
+"World","Population (thousands)","High variant","2030",8776486
+"World","Population (thousands)","Low variant","2030",7867332
+"World","Population (thousands)","Constant-fertility variant","2030",8700336
+"World","Population (thousands)","Medium variant","2035",8611867
+"World","Population (thousands)","High variant","2035",9225306
+"World","Population (thousands)","Low variant","2035",8006642
+"World","Population (thousands)","Constant-fertility variant","2035",9191971
+"World","Population (thousands)","Medium variant","2040",8874041
+"World","Population (thousands)","High variant","2040",9679064
+"World","Population (thousands)","Low variant","2040",8096725
+"World","Population (thousands)","Constant-fertility variant","2040",9722061
+"World","Population (thousands)","Medium variant","2045",9106022
+"World","Population (thousands)","High variant","2045",10143887
+"World","Population (thousands)","Low variant","2045",8131432
+"World","Population (thousands)","Constant-fertility variant","2045",10302084
+"World","Population (thousands)","Medium variant","2050",9306128
+"World","Population (thousands)","High variant","2050",10614318
+"World","Population (thousands)","Low variant","2050",8112191
+"World","Population (thousands)","Constant-fertility variant","2050",10942544
+"World","Population (thousands)","Medium variant","2055",9474911
+"World","Population (thousands)","High variant","2055",11082006
+"World","Population (thousands)","Low variant","2055",8046170
+"World","Population (thousands)","Constant-fertility variant","2055",11659393
+"World","Population (thousands)","Medium variant","2060",9615189
+"World","Population (thousands)","High variant","2060",11546322
+"World","Population (thousands)","Low variant","2060",7940112
+"World","Population (thousands)","Constant-fertility variant","2060",12475188
+"World","Population (thousands)","Medium variant","2065",9731202
+"World","Population (thousands)","High variant","2065",12015187
+"World","Population (thousands)","Low variant","2065",7798443
+"World","Population (thousands)","Constant-fertility variant","2065",13417831
+"World","Population (thousands)","Medium variant","2070",9827113
+"World","Population (thousands)","High variant","2070",12498658
+"World","Population (thousands)","Low variant","2070",7624235
+"World","Population (thousands)","Constant-fertility variant","2070",14518851
+"World","Population (thousands)","Medium variant","2075",9905469
+"World","Population (thousands)","High variant","2075",13002042
+"World","Population (thousands)","Low variant","2075",7420399
+"World","Population (thousands)","Constant-fertility variant","2075",15812675
+"World","Population (thousands)","Medium variant","2080",9968538
+"World","Population (thousands)","High variant","2080",13525786
+"World","Population (thousands)","Low variant","2080",7191850
+"World","Population (thousands)","Constant-fertility variant","2080",17339315
+"World","Population (thousands)","Medium variant","2085",10019612
+"World","Population (thousands)","High variant","2085",14068865
+"World","Population (thousands)","Low variant","2085",6946100
+"World","Population (thousands)","Constant-fertility variant","2085",19146428
+"World","Population (thousands)","Medium variant","2090",10062090
+"World","Population (thousands)","High variant","2090",14630726
+"World","Population (thousands)","Low variant","2090",6691274
+"World","Population (thousands)","Constant-fertility variant","2090",21289304
+"World","Population (thousands)","Medium variant","2095",10097100
+"World","Population (thousands)","High variant","2095",15209903
+"World","Population (thousands)","Low variant","2095",6433361
+"World","Population (thousands)","Constant-fertility variant","2095",23830463
+"World","Population (thousands)","Medium variant","2100",10124926
+"World","Population (thousands)","High variant","2100",15804873
+"World","Population (thousands)","Low variant","2100",6177378
+"World","Population (thousands)","Constant-fertility variant","2100",26843946
+"Africa","Population (thousands)","Medium variant","1950",229895
+"Africa","Population (thousands)","High variant","1950",229895
+"Africa","Population (thousands)","Low variant","1950",229895
+"Africa","Population (thousands)","Constant-fertility variant","1950",229895
+"Africa","Population (thousands)","Medium variant","1955",255521
+"Africa","Population (thousands)","High variant","1955",255521
+"Africa","Population (thousands)","Low variant","1955",255521
+"Africa","Population (thousands)","Constant-fertility variant","1955",255521
+"Africa","Population (thousands)","Medium variant","1960",286729
+"Africa","Population (thousands)","High variant","1960",286729
+"Africa","Population (thousands)","Low variant","1960",286729
+"Africa","Population (thousands)","Constant-fertility variant","1960",286729
+"Africa","Population (thousands)","Medium variant","1965",323916
+"Africa","Population (thousands)","High variant","1965",323916
+"Africa","Population (thousands)","Low variant","1965",323916
+"Africa","Population (thousands)","Constant-fertility variant","1965",323916
+"Africa","Population (thousands)","Medium variant","1970",368148
+"Africa","Population (thousands)","High variant","1970",368148
+"Africa","Population (thousands)","Low variant","1970",368148
+"Africa","Population (thousands)","Constant-fertility variant","1970",368148
+"Africa","Population (thousands)","Medium variant","1975",420318
+"Africa","Population (thousands)","High variant","1975",420318
+"Africa","Population (thousands)","Low variant","1975",420318
+"Africa","Population (thousands)","Constant-fertility variant","1975",420318
+"Africa","Population (thousands)","Medium variant","1980",482803
+"Africa","Population (thousands)","High variant","1980",482803
+"Africa","Population (thousands)","Low variant","1980",482803
+"Africa","Population (thousands)","Constant-fertility variant","1980",482803
+"Africa","Population (thousands)","Medium variant","1985",555276
+"Africa","Population (thousands)","High variant","1985",555276
+"Africa","Population (thousands)","Low variant","1985",555276
+"Africa","Population (thousands)","Constant-fertility variant","1985",555276
+"Africa","Population (thousands)","Medium variant","1990",635287
+"Africa","Population (thousands)","High variant","1990",635287
+"Africa","Population (thousands)","Low variant","1990",635287
+"Africa","Population (thousands)","Constant-fertility variant","1990",635287
+"Africa","Population (thousands)","Medium variant","1995",720931
+"Africa","Population (thousands)","High variant","1995",720931
+"Africa","Population (thousands)","Low variant","1995",720931
+"Africa","Population (thousands)","Constant-fertility variant","1995",720931
+"Africa","Population (thousands)","Medium variant","2000",811101
+"Africa","Population (thousands)","High variant","2000",811101
+"Africa","Population (thousands)","Low variant","2000",811101
+"Africa","Population (thousands)","Constant-fertility variant","2000",811101
+"Africa","Population (thousands)","Medium variant","2005",911120
+"Africa","Population (thousands)","High variant","2005",911120
+"Africa","Population (thousands)","Low variant","2005",911120
+"Africa","Population (thousands)","Constant-fertility variant","2005",911120
+"Africa","Population (thousands)","Medium variant","2010",1022234
+"Africa","Population (thousands)","High variant","2010",1022234
+"Africa","Population (thousands)","Low variant","2010",1022234
+"Africa","Population (thousands)","Constant-fertility variant","2010",1022234
+"Africa","Population (thousands)","Medium variant","2015",1145316
+"Africa","Population (thousands)","High variant","2015",1155067
+"Africa","Population (thousands)","Low variant","2015",1135565
+"Africa","Population (thousands)","Constant-fertility variant","2015",1157022
+"Africa","Population (thousands)","Medium variant","2020",1278199
+"Africa","Population (thousands)","High variant","2020",1305420
+"Africa","Population (thousands)","Low variant","2020",1250978
+"Africa","Population (thousands)","Constant-fertility variant","2020",1315899
+"Africa","Population (thousands)","Medium variant","2025",1417057
+"Africa","Population (thousands)","High variant","2025",1468673
+"Africa","Population (thousands)","Low variant","2025",1365441
+"Africa","Population (thousands)","Constant-fertility variant","2025",1499436
+"Africa","Population (thousands)","Medium variant","2030",1562047
+"Africa","Population (thousands)","High variant","2030",1641422
+"Africa","Population (thousands)","Low variant","2030",1482834
+"Africa","Population (thousands)","Constant-fertility variant","2030",1711238
+"Africa","Population (thousands)","Medium variant","2035",1713090
+"Africa","Population (thousands)","High variant","2035",1826158
+"Africa","Population (thousands)","Low variant","2035",1601132
+"Africa","Population (thousands)","Constant-fertility variant","2035",1957766
+"Africa","Population (thousands)","Medium variant","2040",1869561
+"Africa","Population (thousands)","High variant","2040",2025831
+"Africa","Population (thousands)","Low variant","2040",1717227
+"Africa","Population (thousands)","Constant-fertility variant","2040",2247831
+"Africa","Population (thousands)","Medium variant","2045",2029824
+"Africa","Population (thousands)","High variant","2045",2241148
+"Africa","Population (thousands)","Low variant","2045",1828091
+"Africa","Population (thousands)","Constant-fertility variant","2045",2590937
+"Africa","Population (thousands)","Medium variant","2050",2191599
+"Africa","Population (thousands)","High variant","2050",2469755
+"Africa","Population (thousands)","Low variant","2050",1931855
+"Africa","Population (thousands)","Constant-fertility variant","2050",2996915
+"Africa","Population (thousands)","Medium variant","2055",2352922
+"Africa","Population (thousands)","High variant","2055",2708331
+"Africa","Population (thousands)","Low variant","2055",2027894
+"Africa","Population (thousands)","Constant-fertility variant","2055",3477458
+"Africa","Population (thousands)","Medium variant","2060",2512188
+"Africa","Population (thousands)","High variant","2060",2955291
+"Africa","Population (thousands)","Low variant","2060",2115104
+"Africa","Population (thousands)","Constant-fertility variant","2060",4046528
+"Africa","Population (thousands)","Medium variant","2065",2668299
+"Africa","Population (thousands)","High variant","2065",3211138
+"Africa","Population (thousands)","Low variant","2065",2192029
+"Africa","Population (thousands)","Constant-fertility variant","2065",4722172
+"Africa","Population (thousands)","Medium variant","2070",2820005
+"Africa","Population (thousands)","High variant","2070",3476382
+"Africa","Population (thousands)","Low variant","2070",2257071
+"Africa","Population (thousands)","Constant-fertility variant","2070",5526726
+"Africa","Population (thousands)","Medium variant","2075",2966011
+"Africa","Population (thousands)","High variant","2075",3750361
+"Africa","Population (thousands)","Low variant","2075",2309255
+"Africa","Population (thousands)","Constant-fertility variant","2075",6486910
+"Africa","Population (thousands)","Medium variant","2080",3105039
+"Africa","Population (thousands)","High variant","2080",4031276
+"Africa","Population (thousands)","Low variant","2080",2348286
+"Africa","Population (thousands)","Constant-fertility variant","2080",7634194
+"Africa","Population (thousands)","Medium variant","2085",3236044
+"Africa","Population (thousands)","High variant","2085",4317385
+"Africa","Population (thousands)","Low variant","2085",2374277
+"Africa","Population (thousands)","Constant-fertility variant","2085",9005689
+"Africa","Population (thousands)","Medium variant","2090",3358296
+"Africa","Population (thousands)","High variant","2090",4607712
+"Africa","Population (thousands)","Low variant","2090",2387588
+"Africa","Population (thousands)","Constant-fertility variant","2090",10645899
+"Africa","Population (thousands)","Medium variant","2095",3471176
+"Africa","Population (thousands)","High variant","2095",4901653
+"Africa","Population (thousands)","Low variant","2095",2388716
+"Africa","Population (thousands)","Constant-fertility variant","2095",12608571
+"Africa","Population (thousands)","Medium variant","2100",3574141
+"Africa","Population (thousands)","High variant","2100",5198432
+"Africa","Population (thousands)","Low variant","2100",2378387
+"Africa","Population (thousands)","Constant-fertility variant","2100",14958647
+"Northern America","Population (thousands)","Medium variant","1950",171615
+"Northern America","Population (thousands)","High variant","1950",171615
+"Northern America","Population (thousands)","Low variant","1950",171615
+"Northern America","Population (thousands)","Constant-fertility variant","1950",171615
+"Northern America","Population (thousands)","Medium variant","1955",186960
+"Northern America","Population (thousands)","High variant","1955",186960
+"Northern America","Population (thousands)","Low variant","1955",186960
+"Northern America","Population (thousands)","Constant-fertility variant","1955",186960
+"Northern America","Population (thousands)","Medium variant","1960",204318
+"Northern America","Population (thousands)","High variant","1960",204318
+"Northern America","Population (thousands)","Low variant","1960",204318
+"Northern America","Population (thousands)","Constant-fertility variant","1960",204318
+"Northern America","Population (thousands)","Medium variant","1965",219224
+"Northern America","Population (thousands)","High variant","1965",219224
+"Northern America","Population (thousands)","Low variant","1965",219224
+"Northern America","Population (thousands)","Constant-fertility variant","1965",219224
+"Northern America","Population (thousands)","Medium variant","1970",231284
+"Northern America","Population (thousands)","High variant","1970",231284
+"Northern America","Population (thousands)","Low variant","1970",231284
+"Northern America","Population (thousands)","Constant-fertility variant","1970",231284
+"Northern America","Population (thousands)","Medium variant","1975",242360
+"Northern America","Population (thousands)","High variant","1975",242360
+"Northern America","Population (thousands)","Low variant","1975",242360
+"Northern America","Population (thousands)","Constant-fertility variant","1975",242360
+"Northern America","Population (thousands)","Medium variant","1980",254454
+"Northern America","Population (thousands)","High variant","1980",254454
+"Northern America","Population (thousands)","Low variant","1980",254454
+"Northern America","Population (thousands)","Constant-fertility variant","1980",254454
+"Northern America","Population (thousands)","Medium variant","1985",267079
+"Northern America","Population (thousands)","High variant","1985",267079
+"Northern America","Population (thousands)","Low variant","1985",267079
+"Northern America","Population (thousands)","Constant-fertility variant","1985",267079
+"Northern America","Population (thousands)","Medium variant","1990",281162
+"Northern America","Population (thousands)","High variant","1990",281162
+"Northern America","Population (thousands)","Low variant","1990",281162
+"Northern America","Population (thousands)","Constant-fertility variant","1990",281162
+"Northern America","Population (thousands)","Medium variant","1995",295749
+"Northern America","Population (thousands)","High variant","1995",295749
+"Northern America","Population (thousands)","Low variant","1995",295749
+"Northern America","Population (thousands)","Constant-fertility variant","1995",295749
+"Northern America","Population (thousands)","Medium variant","2000",313289
+"Northern America","Population (thousands)","High variant","2000",313289
+"Northern America","Population (thousands)","Low variant","2000",313289
+"Northern America","Population (thousands)","Constant-fertility variant","2000",313289
+"Northern America","Population (thousands)","Medium variant","2005",329231
+"Northern America","Population (thousands)","High variant","2005",329231
+"Northern America","Population (thousands)","Low variant","2005",329231
+"Northern America","Population (thousands)","Constant-fertility variant","2005",329231
+"Northern America","Population (thousands)","Medium variant","2010",344529
+"Northern America","Population (thousands)","High variant","2010",344529
+"Northern America","Population (thousands)","Low variant","2010",344529
+"Northern America","Population (thousands)","Constant-fertility variant","2010",344529
+"Northern America","Population (thousands)","Medium variant","2015",359638
+"Northern America","Population (thousands)","High variant","2015",362528
+"Northern America","Population (thousands)","Low variant","2015",356749
+"Northern America","Population (thousands)","Constant-fertility variant","2015",359593
+"Northern America","Population (thousands)","Medium variant","2020",374394
+"Northern America","Population (thousands)","High variant","2020",382024
+"Northern America","Population (thousands)","Low variant","2020",366764
+"Northern America","Population (thousands)","Constant-fertility variant","2020",374109
+"Northern America","Population (thousands)","Medium variant","2025",388472
+"Northern America","Population (thousands)","High variant","2025",402116
+"Northern America","Population (thousands)","Low variant","2025",374827
+"Northern America","Population (thousands)","Constant-fertility variant","2025",387862
+"Northern America","Population (thousands)","Medium variant","2030",401657
+"Northern America","Population (thousands)","High variant","2030",421374
+"Northern America","Population (thousands)","Low variant","2030",381944
+"Northern America","Population (thousands)","Constant-fertility variant","2030",400866
+"Northern America","Population (thousands)","Medium variant","2035",413945
+"Northern America","Population (thousands)","High variant","2035",440040
+"Northern America","Population (thousands)","Low variant","2035",387935
+"Northern America","Population (thousands)","Constant-fertility variant","2035",412951
+"Northern America","Population (thousands)","Medium variant","2040",425467
+"Northern America","Population (thousands)","High variant","2040",458975
+"Northern America","Population (thousands)","Low variant","2040",392460
+"Northern America","Population (thousands)","Constant-fertility variant","2040",424057
+"Northern America","Population (thousands)","Medium variant","2045",436348
+"Northern America","Population (thousands)","High variant","2045",479216
+"Northern America","Population (thousands)","Low variant","2045",395097
+"Northern America","Population (thousands)","Constant-fertility variant","2045",434327
+"Northern America","Population (thousands)","Medium variant","2050",446862
+"Northern America","Population (thousands)","High variant","2050",501324
+"Northern America","Population (thousands)","Low variant","2050",395958
+"Northern America","Population (thousands)","Constant-fertility variant","2050",444115
+"Northern America","Population (thousands)","Medium variant","2055",456760
+"Northern America","Population (thousands)","High variant","2055",524496
+"Northern America","Population (thousands)","Low variant","2055",395143
+"Northern America","Population (thousands)","Constant-fertility variant","2055",453222
+"Northern America","Population (thousands)","Medium variant","2060",466270
+"Northern America","Population (thousands)","High variant","2060",548248
+"Northern America","Population (thousands)","Low variant","2060",393352
+"Northern America","Population (thousands)","Constant-fertility variant","2060",461923
+"Northern America","Population (thousands)","Medium variant","2065",475598
+"Northern America","Population (thousands)","High variant","2065",572625
+"Northern America","Population (thousands)","Low variant","2065",390968
+"Northern America","Population (thousands)","Constant-fertility variant","2065",470392
+"Northern America","Population (thousands)","Medium variant","2070",484690
+"Northern America","Population (thousands)","High variant","2070",598064
+"Northern America","Population (thousands)","Low variant","2070",387782
+"Northern America","Population (thousands)","Constant-fertility variant","2070",478476
+"Northern America","Population (thousands)","Medium variant","2075",493311
+"Northern America","Population (thousands)","High variant","2075",625008
+"Northern America","Population (thousands)","Low variant","2075",383322
+"Northern America","Population (thousands)","Constant-fertility variant","2075",485897
+"Northern America","Population (thousands)","Medium variant","2080",501289
+"Northern America","Population (thousands)","High variant","2080",653580
+"Northern America","Population (thousands)","Low variant","2080",377343
+"Northern America","Population (thousands)","Constant-fertility variant","2080",492530
+"Northern America","Population (thousands)","Medium variant","2085",508582
+"Northern America","Population (thousands)","High variant","2085",683462
+"Northern America","Population (thousands)","Low variant","2085",369971
+"Northern America","Population (thousands)","Constant-fertility variant","2085",498403
+"Northern America","Population (thousands)","Medium variant","2090",515233
+"Northern America","Population (thousands)","High variant","2090",714146
+"Northern America","Population (thousands)","Low variant","2090",361550
+"Northern America","Population (thousands)","Constant-fertility variant","2090",503594
+"Northern America","Population (thousands)","Medium variant","2095",521231
+"Northern America","Population (thousands)","High variant","2095",745284
+"Northern America","Population (thousands)","Low variant","2095",352339
+"Northern America","Population (thousands)","Constant-fertility variant","2095",508068
+"Northern America","Population (thousands)","Medium variant","2100",526428
+"Northern America","Population (thousands)","High variant","2100",776793
+"Northern America","Population (thousands)","Low variant","2100",342377
+"Northern America","Population (thousands)","Constant-fertility variant","2100",511633
+
+"Source: Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2010 Revision, http://esa.un.org/unpd/wpp/index.htm For definition of variables, check the link Glossary of Demographic TermsSunday, January 01, 2012; 11:30:22 AM"
